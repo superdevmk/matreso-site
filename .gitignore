@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+
+# Source duplicates (organized copies live under assets/)
+/*.pdf
+/*.jpg
+/*.png
+!assets/**
+/dokumenti page/**
